@@ -251,3 +251,8 @@ Näide:
 ```
 49011162694 Geograafia 5
 ```
+
+
+UML:
+<img width="962" height="395" alt="image" src="https://github.com/user-attachments/assets/47f9e418-33ef-4f99-9093-c6966d00dda6" />
+
