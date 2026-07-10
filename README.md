@@ -254,6 +254,7 @@ Näide:
 
 
 UML:
-<img width="970" height="405" alt="image" src="https://github.com/user-attachments/assets/034dfe4f-4117-4a43-89e9-becd10ab012d" />
+<img width="1574" height="646" alt="image" src="https://github.com/user-attachments/assets/b10ca0ee-c584-4cf4-9e5d-dadc488ddabc" />
+
 
 
